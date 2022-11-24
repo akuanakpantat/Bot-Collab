@@ -14,7 +14,7 @@
 // • Rasel comel
 // • ImYanXiao
 // • Xtreshe (Beban)
-// • Dll
+// • RamaAndhika
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -59,17 +59,17 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorbot = '6285600881911' //Nomor Bot
+global.nomorown = '285607806470' //Nomor Owner
+global.namebot = 'Bot-Biskull' //Nama Bot
+global.nameown = 'RamaAndhika' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285607806470', '❦ R a m a - Chan? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // 6285607806470
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
