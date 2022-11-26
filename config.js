@@ -54,13 +54,13 @@ global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085607806470' //Nomor Danamu
+global.ppulsa = '085607806470' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285600881911' //Nomor Bot
-global.nomorown = '285607806470' //Nomor Owner
+global.nomorown = '6285607806470' //Nomor Owner
 global.namebot = 'Bot-Biskull' //Nama Bot
 global.nameown = 'RamaAndhika' // Nama Owner
 
